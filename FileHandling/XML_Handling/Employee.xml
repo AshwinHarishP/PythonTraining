@@ -1,0 +1,16 @@
+<?xml>
+<employee>
+    <name> "Ashwin" </name>
+    <id> 1 </id>
+    <salary> 50000 </salary>
+
+    <name> "Akhilesh" </name>
+    <id> 2 </id>
+    <salary> 100000 </salary>
+
+    <name> "Aravind" </name>
+    <id> 3 </id>
+    <salary> 50000 </salary>
+
+</employee>
+</xml>
